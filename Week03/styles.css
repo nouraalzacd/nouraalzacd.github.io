@@ -60,7 +60,7 @@ nav a:hover {
 }
 
 
-#content {
+#content article{
   background-image: url("trans-bg.gif");
   background-repeat: no-repeat;
   background-attachment: fixed;
