@@ -58,6 +58,7 @@ nav li {
 
 #content article {
   background-image: url("trans-bg.gif");
+  background-repeat: no-repeat;
   border-width: 1px;
   border-style: solid;
   border-color: #CCCCCC;
