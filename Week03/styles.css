@@ -18,6 +18,7 @@ header h1 {
   padding: 40px 40px 40px 120px;
   background-image: url("header-image-1.gif");
   background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 
@@ -59,6 +60,7 @@ nav li {
 #content article {
   background-image: url("trans-bg.gif");
   background-repeat: no-repeat;
+  background-attachment: fixed;
   border-width: 1px;
   border-style: solid;
   border-color: #CCCCCC;
@@ -84,6 +86,7 @@ h2 {
 h3 {
   background-image: url("header-star-1.gif");
   background-repeat: no-repeat;
+  background-attachment: fixed;
   padding-left: 20px;
 }
 
