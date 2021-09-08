@@ -62,17 +62,17 @@ nav a:hover {
 
 #content article{
   background-image: url("trans-bg.gif");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
   border-width: 1px;
   border-style: solid;
   border-color: #CCCCCC;
   margin-left: 180px;
   padding: 10px 10px 10px 10px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 footer{
-  clear: left;
+  clear: both;
   text-align: center;
 }
 
