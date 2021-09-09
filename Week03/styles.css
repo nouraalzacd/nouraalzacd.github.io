@@ -15,7 +15,10 @@ body {
 header h1 {
   font-size: 350%;
   color: #7C1A00;
-  padding: 40px 40px 40px 120px;
+  padding-top: 40px;
+  padding-right: 40px;
+  padding-bottom: 40px;
+  padding-left: 120px;
   background-image: url("header-image-1.gif");
   background-repeat: no-repeat;
 }
