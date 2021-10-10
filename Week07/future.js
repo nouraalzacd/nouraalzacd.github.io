@@ -1,6 +1,6 @@
 var job = ["entrepreneur", "programmer", "Lawyer", "Othodontist"];
 var geoLocation = ["Brazil", "Italy", "Australia", "Texas"];
-var spouse = ["Fahad", "Khaled", "Dawood", "Fahd"];
+var spouse = ["Fahad", "Khaled", "Dawood", "Fhahed"];
 var numKids = [1,0,2,3];
 
 var generator = Math.floor(Math.random() * 4);
