@@ -1,8 +1,14 @@
 body {
   font-family: "Georgia", serif;
-  text-align: center;
-  color: white;
   line-height: 140%;
   margin: 30px;
   background-color: #170B3B;
+}
+
+p {
+
+
+color: white;
+text-align: center;
+
 }
